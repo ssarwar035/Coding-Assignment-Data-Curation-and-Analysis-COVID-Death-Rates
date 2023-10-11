@@ -3,6 +3,7 @@ Data scraping using BeautifulSoup API from Wikipedia's COVID-19 pandemic death r
 
 DESCRIPTION
 - The goal of this project is to scrape data from a site to create new data. The data is to be analyzed and visualized.
+
 SUMMARY
 - The project aimed to collect and analyze data on COVID-19 deaths by country from Wikipedia. COVID-19 has had a significant global impact, and understanding the variations in the number of deaths across countries is crucial for public health and policy decisions. This project sought to scrape data from Wikipedia, perform data cleaning, and visualize the results using scatter plots and bar graphs.
 
