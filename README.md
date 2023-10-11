@@ -2,10 +2,9 @@
 Data scraping using BeautifulSoup API from Wikipedia's COVID-19 pandemic death rates by country
 
 DESCRIPTION
-The goal of this project is to scrape data from a site to create new data. The data is to be analyzed and visualized.
+- The goal of this project is to scrape data from a site to create new data. The data is to be analyzed and visualized.
 SUMMARY
-Edit
-The project aimed to collect and analyze data on COVID-19 deaths by country from Wikipedia. COVID-19 has had a significant global impact, and understanding the variations in the number of deaths across countries is crucial for public health and policy decisions. This project sought to scrape data from Wikipedia, perform data cleaning, and visualize the results using scatter plots and bar graphs.
+- The project aimed to collect and analyze data on COVID-19 deaths by country from Wikipedia. COVID-19 has had a significant global impact, and understanding the variations in the number of deaths across countries is crucial for public health and policy decisions. This project sought to scrape data from Wikipedia, perform data cleaning, and visualize the results using scatter plots and bar graphs.
 
 Methods:
 
@@ -26,9 +25,9 @@ Discussion: It is worth noting that the data analysis also revealed disparities 
 
 Data types and attributes:
 
-"Country": The name of the country for which COVID-19 data is recorded. (String)
-"Total Deaths": The total number of deaths due to COVID-19 in the country. (Int)
-"Total Cases": The total number of confirmed COVID-19 cases in the country. (Int)
-"Deaths per Million": The number of COVID-19 deaths per million people in the country. (Int)
+- "Country": The name of the country for which COVID-19 data is recorded. (String)
+- "Total Deaths": The total number of deaths due to COVID-19 in the country. (Int)
+- "Total Cases": The total number of confirmed COVID-19 cases in the country. (Int)
+- "Deaths per Million": The number of COVID-19 deaths per million people in the country. (Int)
 
 Wikipedia contributors. (2023, August 19). COVID-19 pandemic death rates by country. In Wikipedia, The Free Encyclopedia. Retrieved 04:20, October 11, 2023, from https://en.wikipedia.org/w/index.php?title=COVID-19_pandemic_death_rates_by_country&oldid=1171087885
